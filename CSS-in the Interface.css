@@ -5,9 +5,6 @@ derzeit aktiven Themes geladen. Dadurch können auch CSS-Regeln des Themes
 brauchst aber auf keinen Fall alle Regeln des Themes hierher kopieren.
 */
 
-.home-header {
-	display: none;
-}
 
 .toolbar-container {
 	color: black;
