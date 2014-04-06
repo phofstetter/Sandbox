@@ -1,0 +1,26 @@
+/*
+Standardmäig wird dieses eigene Stylesheet *nach* dem Stylesheet Deines
+derzeit aktiven Themes geladen. Dadurch können auch CSS-Regeln des Themes
+überschrieben werden. Trage hier einfach ein, was Du ändern möchtest. Du
+brauchst aber auf keinen Fall alle Regeln des Themes hierher kopieren.
+*/
+
+.home-header {
+	display: none;
+}
+
+.toolbar-container {
+	color: black;
+}
+
+.grid-callout-home .post .post-content {
+	color: #000 !important;
+}
+
+p, ul, ol, dl, blockquote, hr, pre, hgroup, table {
+	color: #000 !important;
+}
+
+.slide-caption, .slide-caption p {
+	color: #fff !important;
+}
